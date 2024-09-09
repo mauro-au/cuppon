@@ -1,0 +1,55 @@
+* {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300 !important;
+    font-style: normal;
+}
+
+.navbar-brand img {
+    height: 28px;
+}
+
+nav {
+    background-color: #28A745;
+}
+
+.nav-link {
+    color: white;
+}
+
+.card-title {
+    color: #212529;
+}
+
+.primer-precio {
+    color: #707070;
+    font-size: 1.3rem;
+}
+
+.segundo-precio {
+    color: #28A745;
+    font-size: 1.6rem;
+    font-weight: 500 !important;
+}
+
+.formulario {
+    background-color: #28A745;
+    color: white;
+}
+
+.formulario h2 {
+    font-weight: 500 !important;
+}
+
+footer {
+    text-align: center;
+    color: #707070;
+}
+
+footer img {
+    width: 109px;
+}
+
+.navbar-toggler {
+    border: 1px solid #FFFFFF80;
+}
+
